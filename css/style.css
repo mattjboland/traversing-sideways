@@ -75,6 +75,10 @@ div{
 	background-color: #fff;
 }
 
+.highlight{
+    background-color: pink;
+}
+
 #my_footer{
 	width:100%;
 	text-align: center;
